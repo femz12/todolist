@@ -1,6 +1,6 @@
 This a todo list web application
 
-TO use this app just open the index.html file in your browser
+To use this app just open the index.html file in your browser
 
 You will see an input field where you can add your item 
 
